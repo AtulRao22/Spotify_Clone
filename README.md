@@ -24,17 +24,7 @@
 - **Card-Based Content:** Elegant grid layouts for showcasing albums, playlists, and featured charts.
 - **Premium Hover Effects:** Smooth micro-interactions that deliver a rich user experience.
 
-## 🚀 Deployment
 
-The project is entirely static and ready to go live! You can effortlessly deploy it on Netlify, GitHub Pages, or any modern static hosting service.
-
-### ⚡ Quick Deploy to Netlify
-
-1. Commit and push this repository to your GitHub.
-2. Sign in to [Netlify](https://www.netlify.com/).
-3. Click on **"Add new site"** > **"Import an existing project"**.
-4. Connect the repository and follow the guided prompts.
-5. Netlify will auto-detect `index.html` as the entry point and instantly deploy your site!
 
 ## 📂 Project Structure
 
